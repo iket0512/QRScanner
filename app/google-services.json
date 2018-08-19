@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1042800070579",
+    "firebase_url": "https://hack36-65566.firebaseio.com",
+    "project_id": "hack36-65566",
+    "storage_bucket": "hack36-65566.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042800070579:android:1ef7415939d0a779",
+        "android_client_info": {
+          "package_name": "com.kyb.hack36.kyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042800070579-7hv1nb3tcv1sjf21ppvg812oucl6ea5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDM1XDhG1-YhFmquAkcb89WapNrQQieM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
